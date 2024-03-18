@@ -1,7 +1,8 @@
 {
     "name": "crscompany/tailordataexport-plugin",
     "type": "october-plugin",
-    "description": "No description provided yet...",
+    "description": "Plugin for exporting and importing data from OctoberCMS",
+    "license": "MIT",
     "require": {
         "composer/installers": "~1.0",
         "october/rain": "~v3.5",
