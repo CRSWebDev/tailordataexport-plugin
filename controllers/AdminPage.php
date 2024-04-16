@@ -74,7 +74,7 @@ class AdminPage extends Controller
     }
 
     public function onExportStorage() {
-        $storageDir = storage_path('app');
+        $storageDir = storage_path('app/media');
 
         return $this->zip($storageDir);
     }
