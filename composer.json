@@ -1,5 +1,5 @@
 {
-    "name": "crs-company/tailordataexport-plugin",
+    "name": "crscompany/tailordataexport-plugin",
     "type": "october-plugin",
     "description": "Plugin for exporting and importing data from OctoberCMS",
     "license": "MIT",
