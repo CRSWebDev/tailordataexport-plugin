@@ -75,7 +75,7 @@ class Plugin extends PluginBase
             'tailorDataExport' => [
                 'label' => 'Tailor Data Export',
                 'description' => 'Export and import Tailor data',
-                'category' => 'Data',
+                'category' => 'FrameworC',
                 'icon' => 'icon-globe',
                 'url' => Backend::url('crscompany/tailordataexport/adminpage'),
                 'order' => 500,
